@@ -31,3 +31,4 @@ _На сайте есть маркетинговый текст «Поддерж
 ### 1.2. Детальный анализ ключевого процесса
 
 ### 1.3. Конкурентный анализ
+![](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/ba/swot.jpg?ref_type=heads)
