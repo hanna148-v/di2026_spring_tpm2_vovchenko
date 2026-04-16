@@ -1,8 +1,8 @@
 # DI2026_Spring_TPM1_Vovchenko
 
-**Задание:** Technical Project Manager
-**Продукт:** Atlasbus (https://atlasbus.by/)
-**Выполнила:** Вовченко Анна 
+**Задание:** Technical Project Manager  
+**Продукт:** Atlasbus (https://atlasbus.by/)  
+**Выполнила:** Вовченко Анна   
 
 ## Часть 1. Анализ текущего состояния (BA-часть)
 
