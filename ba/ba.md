@@ -30,7 +30,7 @@ _На сайте есть маркетинговый текст «Поддерж
 Продукт решает это через онлайн-агрегацию, мобильное приложение, электронные билеты и динамическое ценообразование.
 
 ### 1.2. Детальный анализ ключевого процесса
-
+![](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/ba/bpmn.svg)
 ### 1.3. Конкурентный анализ
 На основе анализа ИИ я выделила два основных конкурента atlasbus.by - это infobus.by и busfor.by
 ![](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/ba/swot.jpg?ref_type=heads)
