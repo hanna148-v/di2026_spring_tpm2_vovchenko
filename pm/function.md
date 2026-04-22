@@ -78,4 +78,8 @@
 4. Churn Rate среди пользователей, обращавшихся в поддержку (до и после внедрения)
 
 ### 3.6. Риски
-
+Для представления рисков я использовала реестр рисков, влияние определялось по этой таблице:
+![Таблица](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/pm/%D1%82%D0%B0%D0%B1%D0%BB.png)
+##### Реестр рисков:
+![](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/pm/%D1%80%D0%B8%D1%81%D0%BA%D0%B81.png)
+![](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/raw/master/pm/%D1%80%D0%B8%D1%81%D0%BA%D0%B82.png)
