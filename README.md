@@ -17,13 +17,13 @@
 [2.3. Генерация и выбор AI-функции](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/pm.md#23-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-ai-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)  
 
 **Часть 3. Детальная проработка выбранной AI-функции(Проектирование)**  
-[3.1. Сценарий использования (JTBD)]()    
-[3.2. Данные и аналитика]()  
-[3.3. Проверка гипотезы]()  
-[3.4. MVP за 3 месяца]()  
-[3.5. Метрики успеха]()   
-[3.6. Риски]()  
+[3.1. Сценарий использования (JTBD)](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#31-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-jtbd)    
+[3.2. Данные и аналитика](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#32-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B8-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0)  
+[3.3. Проверка гипотезы](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#33-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B)  
+[3.4. MVP за 3 месяца](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#34-mvp-%D0%B7%D0%B0-3-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B0)  
+[3.5. Метрики успеха](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#35-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8-%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0)   
+[3.6. Риски](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/function.md#36-%D1%80%D0%B8%D1%81%D0%BA%D0%B8)  
 
 **Часть 4. Коммуникация и рефлексия (дополнительно)**  
 [4.1. Вопросы стейкхолдеру]()  
-[4].2. Рефлексия использования AI]()  
+[4.2. Рефлексия использования AI]()  
