@@ -14,7 +14,7 @@
 **Часть 2. Стратегия и приоритизация (PM-часть)**  
 [2.1. Product Vision](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/pm.md#21-product-vision)  
 [2.2. Стратегические цели и метрики](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/pm.md#21-product-vision)  
-[2.3. Генерация и выбор AI-функци]и(https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/pm.md#21-product-vision)  
+[2.3. Генерация и выбор AI-функции](https://gitlab.12devs.com/training/internship/2026_dl_spring/avovchenko/di2026_spring_tpm2_vovchenko/-/blob/master/pm/pm.md#21-product-vision)  
 
 **Часть 3. Детальная проработка выбранной AI-функции(Проектирование)**  
 3.1. Сценарий использования (JTBD)  
